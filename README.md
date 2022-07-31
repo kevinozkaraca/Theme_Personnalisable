@@ -1,6 +1,6 @@
 # Comment personnaliser VSCode ?
 
-## 1. Télécharger une font qui vous plait et installer la sur votre ordinateur (exemple ici avec JetBrains Mono):
+## 1. Téléchargez une font qui vous plait et installez la sur votre ordinateur (exemple ici avec JetBrains Mono):
 
 ![image](https://user-images.githubusercontent.com/80677798/182047011-eb56d6c5-905d-4a6a-beae-1434b7832e4f.png)
 
@@ -15,6 +15,7 @@
 ```
 @category:"themes" @popular 
 ```
+
 ![image](https://user-images.githubusercontent.com/80677798/182046937-56a6dc24-f2b6-4988-8e9b-a5e20927d008.png)
 
 
@@ -28,11 +29,11 @@
 
 ![image](https://user-images.githubusercontent.com/80677798/182047698-21da8e8c-e06e-4d43-97da-f081cc996a0f.png)
 
-### Ajouter le code (en bas de page) à la suite du choix du thème : 
+### Ajoutez le code (en bas de page) à la suite du choix du thème : 
 
 ![image](https://user-images.githubusercontent.com/80677798/182047734-f5f188dd-337e-41ac-8c68-abea55a169ed.png)
 
-### La "sidebar" est la barre d'icon se trouvant sur le coté gauche
+### La "sidebar" est la barre d'icones se trouvant sur le coté gauche
 ### L' "editor" est l'endroit où vous écrivez votre code
 ### L' "activityBar" est la section de recherche gauche
 ### Le "badge est un indicateur
