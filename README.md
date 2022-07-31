@@ -2,7 +2,7 @@
 
 ## Comment personnaliser VSCode ?
 
-![image](https://user-images.githubusercontent.com/80677798/182046937-56a6dc24-f2b6-4988-8e9b-a5e20927d008.png)
+![image](https://user-images.githubusercontent.com/80677798/182047090-4bc8d320-6817-430c-b123-2f399ff7c68e.png)
 
 ### 1. Télécharger une font qui vous plait et installer la sur votre ordinateur (exemple ici avec JetBrains Mono):
 
@@ -17,8 +17,8 @@ Rendez vous dans la section des extensions et tapez :
 ```
 @category:"themes" @popular 
 ```
+![image](https://user-images.githubusercontent.com/80677798/182046937-56a6dc24-f2b6-4988-8e9b-a5e20927d008.png)
 
-![image](https://user-images.githubusercontent.com/80677798/182047090-4bc8d320-6817-430c-b123-2f399ff7c68e.png)
 
 ### 3. Apres avoir installé votre thème, définissez votre thème (exemple ici avec le thème AYU - Light bordererd)
 
