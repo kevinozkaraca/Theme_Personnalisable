@@ -14,7 +14,7 @@ Rendez vous dans la section des extensions et tapez :
 
 ### 2. 
 
-'''json
+'''
  "editor.fontFamily": "Jetbrains Mono",
   "workbench.colorCustomizations": {
     "list.inactiveSelectionBackground": "#025591",
