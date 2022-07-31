@@ -24,6 +24,24 @@
 
 ## 4. Selectionnez ce que vous voulez modifier : 
 
+### Allez dans le fichier json :
+
+![image](https://user-images.githubusercontent.com/80677798/182047698-21da8e8c-e06e-4d43-97da-f081cc996a0f.png)
+
+### Ajouter le code (en bas de page) à la suite du choix du thème : 
+
+![image](https://user-images.githubusercontent.com/80677798/182047734-f5f188dd-337e-41ac-8c68-abea55a169ed.png)
+
+### La "sidebar" est la barre d'icon se trouvant sur le coté gauche
+### L' "editor" est l'endroit où vous écrivez votre code
+### L' "activityBar" est la section de recherche gauche
+### Le "badge est un indicateur
+### La "Tab" est l'ensemble des onglets en haut du logiciel
+### L' "editor.tokenColorCustomizations" représente l'ensemble de la coloration syntaxique
+### A vous tester le reste et de copier/ coller ce que vous avez besoin
+
+### Il vous suffit de changer les couleurs et d'enregistrer le document "json" pour voir vos changements
+
 ```
   "workbench.colorCustomizations": {
     "list.inactiveSelectionBackground": "#025591",
@@ -82,3 +100,8 @@
 "workbench.colorTheme": "Default Light+"
 
 ```
+
+###.5 exemple d'un thème Dark : 
+
+![themeDark](https://user-images.githubusercontent.com/80677798/182047780-13ac3890-7f9e-48c9-8364-e2045ece845d.jpg)
+
