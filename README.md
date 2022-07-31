@@ -102,7 +102,7 @@
 
 ```
 
-###.5 exemple d'un thème Dark, avec un menu Light : 
+### 5. exemple d'un thème Dark, avec un menu Light : 
 
 ![themeDark](https://user-images.githubusercontent.com/80677798/182047780-13ac3890-7f9e-48c9-8364-e2045ece845d.jpg)
 
