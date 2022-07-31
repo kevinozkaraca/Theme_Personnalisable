@@ -78,28 +78,6 @@
   "types": "#24c23e",
   "strings": "#cd7783",
 },
-"editor.semanticTokenColorCustomizations": {
-  "rules": {
-      "keyword":"#4598dc",
-      "variable": "#69c9de",
-      "method": "#ffffff",
-      "parameter": "#ffffff",
-      "event": "#ffffff",
-      "type": "#24c23e",
-      "function": "#fafa36",
-      "string": "#e66e7e",
-      "label": "#ffffff",
-      "module": "#ffffff",
-      "number": "#63c73f",
-      "namespace": "#ffffff",
-      "operator": "#ffcc88",
-      "typeParameter": "#ffffff",
-      "selfParameter": "#ffffff",
-      "comment": "#87998b",
-      "property": "#257388", }
-},
-"workbench.colorTheme": "Default Light+"
-
 ```
 
 ### 5. exemple d'un thème Dark, avec un menu Light : 
