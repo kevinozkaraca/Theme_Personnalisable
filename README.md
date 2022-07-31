@@ -6,15 +6,20 @@
 
 Rendez vous dans la section des extensions et tapez :
 
-'''
+```
 @category:"themes" @popular 
-'''
+```
 
 ![image](https://user-images.githubusercontent.com/80677798/182046937-56a6dc24-f2b6-4988-8e9b-a5e20927d008.png)
 
-### 2. 
+### 2. Télécharger une font quoi vous plait et installer la sur votre ordinateur :
 
-'''
+![image](https://user-images.githubusercontent.com/80677798/182047011-eb56d6c5-905d-4a6a-beae-1434b7832e4f.png)
+
+Le nom à indiquer dans VSCode est le nom indiqué lors de l'installation : JetBrains Mono 
+
+
+```
  "editor.fontFamily": "Jetbrains Mono",
   "workbench.colorCustomizations": {
     "list.inactiveSelectionBackground": "#025591",
@@ -72,4 +77,4 @@ Rendez vous dans la section des extensions et tapez :
 },
 "workbench.colorTheme": "Default Light+"
 
-'''
+```
