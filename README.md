@@ -1,6 +1,6 @@
 # Thème personnalisable pour VSCode
 
-## Comment personnaliser VSCode :
+## Comment personnaliser VSCode ?
 
 ### 1. Choisir un thème qui vous plait
 
@@ -12,15 +12,17 @@ Rendez vous dans la section des extensions et tapez :
 
 ![image](https://user-images.githubusercontent.com/80677798/182046937-56a6dc24-f2b6-4988-8e9b-a5e20927d008.png)
 
-### 2. Télécharger une font quoi vous plait et installer la sur votre ordinateur :
+### 2. Télécharger une font qui vous plait et installer la sur votre ordinateur :
 
 ![image](https://user-images.githubusercontent.com/80677798/182047011-eb56d6c5-905d-4a6a-beae-1434b7832e4f.png)
 
-Le nom à indiquer dans VSCode est le nom indiqué lors de l'installation : JetBrains Mono 
+Le nom à indiquer dans les parametres de VSCode est le nom indiqué lors de l'installation : JetBrains Mono 
 
+![image](https://user-images.githubusercontent.com/80677798/182047090-4bc8d320-6817-430c-b123-2f399ff7c68e.png)
+
+### 2. Télécharger une font quoi vous plait et installer la sur votre ordinateur :
 
 ```
- "editor.fontFamily": "Jetbrains Mono",
   "workbench.colorCustomizations": {
     "list.inactiveSelectionBackground": "#025591",
     "sideBar.background": "#f0f0f0",
