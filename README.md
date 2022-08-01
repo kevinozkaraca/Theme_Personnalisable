@@ -39,7 +39,8 @@
 ### Le "badge est un indicateur
 ### La "Tab" est l'ensemble des onglets en haut du logiciel
 ### L' "editor.tokenColorCustomizations" représente l'ensemble de la coloration syntaxique
-### A vous tester le reste et de copier/ coller ce que vous avez besoin
+### La "list" est le menu des dossiers et fichiers
+### A vous tester (avec l'auto-complétion) le reste et de copier/ coller ce que vous avez besoin
 
 ### Il vous suffit de changer les couleurs et d'enregistrer le document "json" pour voir vos changements
 
